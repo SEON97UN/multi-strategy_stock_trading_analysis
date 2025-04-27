@@ -170,7 +170,7 @@ Portfolio construction and systematic risk management analysis
 ---
 
 ## 🙋‍♂️ Author
-Name: [Seong Jun Chang]
+Name: [Seong Jun Chang]<br>
 Email: [sjchang.stats@gmail.com]
 
 ---
