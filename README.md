@@ -170,8 +170,9 @@ Portfolio construction and systematic risk management analysis
 ---
 
 ## 🙋‍♂️ Author
-Name: [Seong Jun Chang]<br>
-Email: [sjchang.stats@gmail.com]
+Name: Seong Jun Chang  
+<br>
+Email: sjchang.stats@gmail.com
 
 ---
 
@@ -180,7 +181,7 @@ This project is licensed under the **MIT License**.
 
 ---
 
-⭐️ Portfolio Statement for Master’s Program Application
-“This project demonstrates my ability to apply data science methodologies to financial market analysis, integrating quantitative modeling, machine learning, and deep learning approaches for systematic trading strategy development.
-Through rigorous feature engineering, model implementation, and empirical performance evaluation, I built an end-to-end research framework that bridges academic insights with practical application.
+## ⭐️ Portfolio Statement for Master’s Program Application
+“This project demonstrates my ability to apply data science methodologies to financial market analysis, integrating quantitative modeling, machine learning, and deep learning approaches for systematic trading strategy development.<br>
+Through rigorous feature engineering, model implementation, and empirical performance evaluation, I built an end-to-end research framework that bridges academic insights with practical application.<br>
 The project reflects my commitment to data-driven decision-making, predictive modeling, and risk management—key areas I aim to further explore through graduate study in Data Science.”
