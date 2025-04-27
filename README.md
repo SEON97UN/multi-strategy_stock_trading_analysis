@@ -123,7 +123,7 @@ Utilizes **LSTM (Long Short-Term Memory)** networks with an integrated **Attenti
 ---
 
 ## 🏗️ Project Structure
-
+```
 multi-strategy_stock_trading_analysis/
 ├── app.py
 ├── requirements.txt
@@ -140,7 +140,7 @@ multi-strategy_stock_trading_analysis/
 │   └── statistical_arbitrage.py
 ├── .gitignore
 └── LICENSE
-
+```
 
 ---
 
@@ -151,7 +151,7 @@ multi-strategy_stock_trading_analysis/
 pip install -r requirements.txt
 ```
 
-###Run the Streamlit app
+### Run the Streamlit app
 ```bash
 streamlit run app.py
 ```
@@ -176,7 +176,7 @@ Email: [sjchang.stats@gmail.com]
 ---
 
 ## 📄 License
-This project is licensed under the MIT License.
+This project is licensed under the **MIT License**.
 
 ---
 
