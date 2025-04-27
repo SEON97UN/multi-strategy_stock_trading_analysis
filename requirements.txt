@@ -6,31 +6,14 @@ python-dotenv==1.0.0
 
 # Data fetching and processing
 yfinance>=0.1.70
-ta==0.11.0  # Technical Analysis
 
 # Machine Learning and Deep Learning
 scikit-learn>=0.24.0
-tensorflow==2.13.0
 torch>=1.9.0
 torchvision>=0.15.0
 xgboost==3.0.0
-optuna>=2.10.0  # Hyperparameter optimization
 
 # Visualization
 plotly>=5.3.0
 seaborn==0.12.2
 matplotlib>=3.4.0
-kaleido>=0.2.1
-
-# Utilities
-tqdm==4.66.1
-schedule==1.2.1
-aiohttp==3.9.1
-python-telegram-bot==20.7
-tabulate>=0.8.9  # For pretty-printing tables
-
-# Development tools
-pytest==7.4.0  # For testing
-black==23.12.1  # For code formatting
-flake8==7.0.0  # For linting
-
